@@ -1,4 +1,5 @@
 Exercício de JavaScript
+
 Para treinar o JavaScript de vocês, vamos desenvolver uma calculadora em JavaScript.
 
 Como Fazer
